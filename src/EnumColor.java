@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum EnumColor {
+public enum EnumColor {
+    BLACK,
+    WHITE,
+    RED,
+    BLUE
 }
